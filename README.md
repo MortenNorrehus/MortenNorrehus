@@ -4,6 +4,6 @@ On a daily basis i code for Shopify merchants, but I also use React for other pr
 
 ---
 - 👨‍👩‍👧‍👦 I’m a father of two kids.
-- 🖥 I started coding small projects 10 years ago - 2 years ago i went full-time.
+- 🖥 I started coding small projects 10 years ago - 3 years ago i went full-time.
 - 🎒 I’m currently learning and improving NodeJS and React.
 
